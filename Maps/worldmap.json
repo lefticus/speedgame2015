@@ -44,7 +44,6 @@
          "x":0,
          "y":0
         }],
- "nextobjectid":1,
  "orientation":"orthogonal",
  "properties":
     {
@@ -55,7 +54,7 @@
  "tilesets":[
         {
          "firstgid":1,
-         "image":"..\/tileset_1.png",
+         "image":"..\/TileSets\/tileset_1.png",
          "imageheight":336,
          "imagewidth":256,
          "margin":0,
@@ -70,7 +69,7 @@
         }, 
         {
          "firstgid":337,
-         "image":"..\/mountains_0.png",
+         "image":"..\/TileSets\/mountains_0.png",
          "imageheight":160,
          "imagewidth":192,
          "margin":0,
